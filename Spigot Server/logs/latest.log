@@ -1,0 +1,185 @@
+[01:10:35] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[01:10:35] [Server thread/INFO]: Loading properties
+[01:10:35] [Server thread/INFO]: Default game type: CREATIVE
+[01:10:35] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-3fb9445-2b6c9f4 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
+[01:10:35] [Server thread/INFO]: Debug logging is disabled
+[01:10:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:10:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:10:35] [Server thread/INFO]: Generating keypair
+[01:10:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:10:36] [Server thread/INFO]: Using default channel type
+[01:10:36] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[01:10:36] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.5;4651611
+[01:10:36] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b719
+[01:10:36] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[01:10:36] [Server thread/INFO]: Preparing level "world"
+[01:10:36] [Server thread/INFO]: -------- World Settings For [world] --------
+[01:10:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:10:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:10:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[01:10:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:10:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:10:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[01:10:36] [Server thread/INFO]: View Distance: 10
+[01:10:36] [Server thread/INFO]: Mob Spawn Range: 4
+[01:10:36] [Server thread/INFO]: Structure Info Saving: true
+[01:10:36] [Server thread/INFO]: Max TNT Explosions: 100
+[01:10:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:10:36] [Server thread/INFO]: Random Lighting Updates: false
+[01:10:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:10:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:10:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[01:10:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:10:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:10:36] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[01:10:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:10:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:10:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[01:10:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:10:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:10:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[01:10:36] [Server thread/INFO]: View Distance: 10
+[01:10:36] [Server thread/INFO]: Mob Spawn Range: 4
+[01:10:36] [Server thread/INFO]: Structure Info Saving: true
+[01:10:36] [Server thread/INFO]: Max TNT Explosions: 100
+[01:10:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:10:36] [Server thread/INFO]: Random Lighting Updates: false
+[01:10:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:10:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:10:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[01:10:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:10:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:10:36] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[01:10:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:10:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:10:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[01:10:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:10:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:10:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[01:10:36] [Server thread/INFO]: View Distance: 10
+[01:10:36] [Server thread/INFO]: Mob Spawn Range: 4
+[01:10:36] [Server thread/INFO]: Structure Info Saving: true
+[01:10:36] [Server thread/INFO]: Max TNT Explosions: 100
+[01:10:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:10:36] [Server thread/INFO]: Random Lighting Updates: false
+[01:10:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:10:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:10:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:10:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[01:10:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:10:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:10:36] [Server thread/INFO]: Preparing start region for level 0 (Seed: -1623774494)
+[01:10:37] [Server thread/INFO]: Preparing spawn area: 33%
+[01:10:37] [Server thread/INFO]: Preparing start region for level 1 (Seed: 5806315826481847166)
+[01:10:38] [Server thread/INFO]: Preparing start region for level 2 (Seed: 5806315826481847166)
+[01:10:38] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.5;4651611
+[01:10:38] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[01:10:39] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_11_R1 as the Bukkit adapter
+[01:10:39] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b719
+[01:10:39] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[01:10:39] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b719 (API v20) Enabled - By Rigby, fernferret, lithium3141 and main--
+[01:10:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:10:39] [Server thread/INFO]: Done (3,054s)! For help, type "help" or "?"
+[01:10:40] [User Authenticator #1/INFO]: UUID of player dondard is 1cd6a10c-8968-4a63-90a6-fa82dffb35cf
+[01:10:40] [Server thread/INFO]: dondard[/2003:ca:4bd3:9900:b04d:cf3a:e115:efa:59305] logged in with entity id 93 at ([world]1102.587977867964, 71.9339200856712, -274.8223735341307)
+[01:10:45] [Server thread/INFO]: dondard issued server command: /gamemode 1
+[01:10:45] [Server thread/INFO]: [dondard: Set own game mode to Creative Mode]
+[01:10:48] [User Authenticator #2/INFO]: UUID of player Remzma is d97a71eb-d15a-488c-b6a0-da2a2436c520
+[01:10:49] [Server thread/INFO]: Remzma[/95.91.247.60:1458] logged in with entity id 298 at ([world]-115.44416811428081, 113.0, -290.83584539015243)
+[01:11:20] [Server thread/INFO]: dondard issued server command: /tp dondard Remzma
+[01:11:20] [Server thread/INFO]: [dondard: Teleported dondard to Remzma]
+[01:11:26] [Server thread/INFO]: dondard issued server command: /op remzma
+[01:11:26] [Server thread/INFO]: [dondard: Opped remzma]
+[01:12:01] [Server thread/INFO]: Remzma issued server command: /gamemode 1
+[01:12:01] [Server thread/INFO]: [Remzma: Set own game mode to Creative Mode]
+[01:12:25] [Server thread/INFO]: dondard has just earned the achievement [Taking Inventory]
+[01:12:52] [Server thread/INFO]: dondard issued server command: /tp dondard Remzma
+[01:12:52] [Server thread/INFO]: [dondard: Teleported dondard to Remzma]
+[01:14:34] [Server thread/INFO]: Remzma issued server command: /tp dondard
+[01:14:34] [Server thread/INFO]: [Remzma: Teleported Remzma to dondard]
+[01:16:17] [Server thread/INFO]: dondard issued server command: /time set 0
+[01:16:17] [Server thread/INFO]: [dondard: Set the time to 0]
+[01:18:19] [Server thread/INFO]: Remzma issued server command: /tp dondard
+[01:18:19] [Server thread/INFO]: [Remzma: Teleported Remzma to dondard]
+[01:19:37] [Server thread/INFO]: Attempted to place a tile entity (net.minecraft.server.v1_11_R1.TileEntityChest@6b8663bf) at -1043,59,233 (DIRT) where there was no entity tile!
+[01:19:37] [Server thread/INFO]: Chunk coordinates: -1056,224
+[01:19:37] [Server thread/WARN]: java.lang.Exception
+[01:19:37] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.Chunk.a(Chunk.java:728)
+[01:19:37] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.Chunk.a(Chunk.java:706)
+[01:19:37] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.ChunkRegionLoader.loadEntities(ChunkRegionLoader.java:409)
+[01:19:37] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_11_R1.chunkio.ChunkIOProvider.callStage2(ChunkIOProvider.java:42)
+[01:19:37] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_11_R1.chunkio.ChunkIOProvider.callStage2(ChunkIOProvider.java:1)
+[01:19:37] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_11_R1.util.AsynchronousExecutor$Task.finish(AsynchronousExecutor.java:188)
+[01:19:37] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_11_R1.util.AsynchronousExecutor.finishActive(AsynchronousExecutor.java:347)
+[01:19:37] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_11_R1.chunkio.ChunkIOExecutor.tick(ChunkIOExecutor.java:34)
+[01:19:37] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:762)
+[01:19:37] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:399)
+[01:19:37] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:678)
+[01:19:37] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:576)
+[01:19:37] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[01:19:37] [Server thread/INFO]: Attempted to place a tile entity (net.minecraft.server.v1_11_R1.TileEntityMobSpawner@b79cf91) at -1046,59,236 (STONE) where there was no entity tile!
+[01:19:37] [Server thread/INFO]: Chunk coordinates: -1056,224
+[01:19:37] [Server thread/WARN]: java.lang.Exception
+[01:19:37] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.Chunk.a(Chunk.java:728)
+[01:19:37] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.Chunk.a(Chunk.java:706)
+[01:19:37] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.ChunkRegionLoader.loadEntities(ChunkRegionLoader.java:409)
+[01:19:37] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_11_R1.chunkio.ChunkIOProvider.callStage2(ChunkIOProvider.java:42)
+[01:19:37] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_11_R1.chunkio.ChunkIOProvider.callStage2(ChunkIOProvider.java:1)
+[01:19:37] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_11_R1.util.AsynchronousExecutor$Task.finish(AsynchronousExecutor.java:188)
+[01:19:37] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_11_R1.util.AsynchronousExecutor.finishActive(AsynchronousExecutor.java:347)
+[01:19:37] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_11_R1.chunkio.ChunkIOExecutor.tick(ChunkIOExecutor.java:34)
+[01:19:37] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:762)
+[01:19:37] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:399)
+[01:19:37] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:678)
+[01:19:37] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:576)
+[01:19:37] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[01:21:03] [Server thread/INFO]: Remzma issued server command: /tp dondard
+[01:21:03] [Server thread/INFO]: [Remzma: Teleported Remzma to dondard]
+[01:22:16] [Server thread/INFO]: Remzma issued server command: /tp dondard
+[01:22:16] [Server thread/INFO]: [Remzma: Teleported Remzma to dondard]
+[01:23:57] [Server thread/INFO]: Remzma issued server command: /tp dondard
+[01:23:57] [Server thread/INFO]: [Remzma: Teleported Remzma to dondard]
+[01:24:28] [Server thread/INFO]: dondard issued server command: /gamemode 1
+[01:24:28] [Server thread/INFO]: [dondard: Set own game mode to Creative Mode]
+[01:33:43] [Server thread/INFO]: Stopping the server
+[01:33:43] [Server thread/INFO]: Stopping server
+[01:33:43] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b719
+[01:33:43] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.5;4651611
+[01:33:43] [Server thread/INFO]: Saving players
+[01:33:43] [Server thread/INFO]: Remzma lost connection: Server closed
+[01:33:43] [Server thread/INFO]: Remzma left the game
+[01:33:43] [Server thread/INFO]: dondard lost connection: Server closed
+[01:33:43] [Server thread/INFO]: dondard left the game
+[01:33:43] [Server thread/INFO]: Saving worlds
+[01:33:43] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[01:33:44] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[01:33:44] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
