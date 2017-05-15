@@ -1,0 +1,12 @@
+portals:
+  Bay:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Remzma
+    location: -960.0,83.0,2280.0:-960.0,87.0,2283.0
+    world: ampworld
+    destination: p:Town

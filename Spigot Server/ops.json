@@ -10,5 +10,17 @@
     "name": "Remzma",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "09f1fed0-6c1e-42e4-866f-7a98e832b1c4",
+    "name": "darco12",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "52b2cdc5-693d-4d0a-b3cd-940dedbd20f4",
+    "name": "nilocin",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
