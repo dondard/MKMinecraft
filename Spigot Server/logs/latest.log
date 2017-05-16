@@ -1,296 +1,461 @@
-[22:51:09] [Server thread/INFO]: Starting minecraft server version 1.11.2
-[22:51:09] [Server thread/INFO]: Loading properties
-[22:51:09] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[22:51:09] [Server thread/INFO]: Default game type: CREATIVE
-[22:51:09] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-3fb9445-2b6c9f4 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
-[22:51:09] [Server thread/INFO]: Debug logging is disabled
-[22:51:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:51:09] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:51:09] [Server thread/INFO]: Generating keypair
-[22:51:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:51:09] [Server thread/INFO]: Using default channel type
-[22:51:09] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[22:51:09] [Server thread/INFO]: [dynmap] Loading dynmap v2.4-1148
-[22:51:09] [Server thread/INFO]: [dynmap] version=git-Spigot-3fb9445-2b6c9f4 (MC: 1.11.2)
-[22:51:10] [Server thread/INFO]: [dynmap] Mod Support API available
-[22:51:10] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.5;4651611
-[22:51:10] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b719
-[22:51:10] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5.0-SNAPSHOT-b748
-[22:51:10] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[22:51:10] [Server thread/INFO]: Preparing level "world"
-[22:51:10] [Server thread/INFO]: -------- World Settings For [world] --------
-[22:51:10] [Server thread/INFO]: Item Merge Radius: 2.5
-[22:51:10] [Server thread/INFO]: Item Despawn Rate: 6000
-[22:51:10] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[22:51:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[22:51:10] [Server thread/INFO]: View Distance: 32
-[22:51:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[22:51:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[22:51:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[22:51:10] [Server thread/INFO]: Experience Merge Radius: 3.0
-[22:51:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Cane Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Melon Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Vine Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[22:51:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[22:51:10] [Server thread/INFO]: Mob Spawn Range: 4
-[22:51:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[22:51:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[22:51:10] [Server thread/INFO]: Max TNT Explosions: 100
-[22:51:10] [Server thread/INFO]: Random Lighting Updates: false
-[22:51:10] [Server thread/INFO]: Structure Info Saving: true
-[22:51:10] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[22:51:10] [Server thread/INFO]: Item Merge Radius: 2.5
-[22:51:10] [Server thread/INFO]: Item Despawn Rate: 6000
-[22:51:10] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[22:51:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[22:51:10] [Server thread/INFO]: View Distance: 32
-[22:51:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[22:51:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[22:51:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[22:51:10] [Server thread/INFO]: Experience Merge Radius: 3.0
-[22:51:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Cane Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Melon Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Vine Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[22:51:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[22:51:10] [Server thread/INFO]: Mob Spawn Range: 4
-[22:51:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[22:51:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[22:51:10] [Server thread/INFO]: Max TNT Explosions: 100
-[22:51:10] [Server thread/INFO]: Random Lighting Updates: false
-[22:51:10] [Server thread/INFO]: Structure Info Saving: true
-[22:51:10] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[22:51:10] [Server thread/INFO]: Item Merge Radius: 2.5
-[22:51:10] [Server thread/INFO]: Item Despawn Rate: 6000
-[22:51:10] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[22:51:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[22:51:10] [Server thread/INFO]: View Distance: 32
-[22:51:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[22:51:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[22:51:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[22:51:10] [Server thread/INFO]: Experience Merge Radius: 3.0
-[22:51:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Cane Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Melon Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Vine Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[22:51:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[22:51:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[22:51:10] [Server thread/INFO]: Mob Spawn Range: 4
-[22:51:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[22:51:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[22:51:10] [Server thread/INFO]: Max TNT Explosions: 100
-[22:51:10] [Server thread/INFO]: Random Lighting Updates: false
-[22:51:10] [Server thread/INFO]: Structure Info Saving: true
-[22:51:10] [Server thread/INFO]: Preparing start region for level 0 (Seed: -1623774494)
-[22:51:11] [Server thread/INFO]: Preparing spawn area: 42%
-[22:51:11] [Server thread/INFO]: Preparing start region for level 1 (Seed: 5806315826481847166)
-[22:51:12] [Server thread/INFO]: Preparing start region for level 2 (Seed: 5806315826481847166)
-[22:51:12] [Server thread/INFO]: [dynmap] Enabling dynmap v2.4-1148
-[22:51:12] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[22:51:12] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[22:51:12] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[22:51:13] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
-[22:51:13] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
-[22:51:13] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
-[22:51:13] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[22:51:13] [Server thread/INFO]: [dynmap] version 2.4-1148 is enabled - core version 2.4-2082
-[22:51:13] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[22:51:13] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[22:51:13] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[22:51:13] [Server thread/INFO]: [dynmap] Enabled
-[22:51:13] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.5;4651611
-[22:51:13] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[22:51:13] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_11_R1 as the Bukkit adapter
-[22:51:13] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b719
-[22:51:13] [Server thread/INFO]: -------- World Settings For [ampworld] --------
-[22:51:13] [Server thread/INFO]: Item Merge Radius: 2.5
-[22:51:13] [Server thread/INFO]: Item Despawn Rate: 6000
-[22:51:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[22:51:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[22:51:13] [Server thread/INFO]: View Distance: 32
-[22:51:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[22:51:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[22:51:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[22:51:13] [Server thread/INFO]: Experience Merge Radius: 3.0
-[22:51:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[22:51:13] [Server thread/INFO]: Cane Growth Modifier: 100%
-[22:51:13] [Server thread/INFO]: Melon Growth Modifier: 100%
-[22:51:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[22:51:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[22:51:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[22:51:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[22:51:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[22:51:13] [Server thread/INFO]: Vine Growth Modifier: 100%
-[22:51:13] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[22:51:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[22:51:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[22:51:13] [Server thread/INFO]: Mob Spawn Range: 4
-[22:51:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[22:51:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[22:51:13] [Server thread/INFO]: Max TNT Explosions: 100
-[22:51:13] [Server thread/INFO]: Random Lighting Updates: false
-[22:51:13] [Server thread/INFO]: Structure Info Saving: true
-[22:51:13] [Server thread/INFO]: Preparing start region for level 3 (Seed: 6335809954930042793)
-[22:51:14] [User Authenticator #1/INFO]: UUID of player dondard is 1cd6a10c-8968-4a63-90a6-fa82dffb35cf
-[22:51:14] [User Authenticator #2/INFO]: UUID of player nilocin is 52b2cdc5-693d-4d0a-b3cd-940dedbd20f4
-[22:51:14] [Server thread/INFO]: Preparing spawn area for ampworld, 97%
-[22:51:15] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'ampworld'.
-[22:51:15] [Server thread/INFO]: [dynmap] Loaded 23 pending tile renders for world 'ampworld'
-[22:51:15] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
-[22:51:15] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b719 (API v20) Enabled - By Rigby, fernferret, lithium3141 and main--
-[22:51:15] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5.0-SNAPSHOT-b748
-[22:51:15] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5.0-SNAPSHOT-b748 Enabled - By Rigby and fernferret
-[22:51:15] [Server thread/INFO]: [MVPLogging] 1 - Portals(s) loaded
-[22:51:15] [Server thread/WARN]: [Multiverse-Core] Portal Bay has an invalid DESTINATION!
-[22:51:15] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
-[22:51:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:51:15] [Server thread/INFO]: Done (5,136s)! For help, type "help" or "?"
-[22:51:15] [Server thread/INFO]: dondard[/2003:ca:4bd3:9900:b04d:cf3a:e115:efa:62666] logged in with entity id 435 at ([ampworld]-755.5077294055704, 82.42977251930718, 1184.8045223495562)
-[22:51:15] [Server thread/INFO]: nilocin[/95.91.247.60:7040] logged in with entity id 436 at ([ampworld]-752.3322426642555, 80.5285685358538, 1179.5182615667693)
-[22:51:25] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[22:51:38] [Server thread/INFO]: dondard issued server command: /gamemode 1
-[22:51:38] [Server thread/INFO]: [dondard: Set own game mode to Creative Mode]
-[22:51:55] [Server thread/INFO]: nilocin issued server command: /time set 1000
-[22:51:55] [Server thread/INFO]: [nilocin: Set the time to 1000]
-[22:52:01] [Server thread/INFO]: nilocin issued server command: /gamemode 1
-[22:52:01] [Server thread/INFO]: [nilocin: Set own game mode to Creative Mode]
-[22:54:03] [Server thread/INFO]: dondard issued server command: //set cobblestoneslab
-[22:54:07] [Server thread/INFO]: dondard issued server command: //undo
-[22:54:20] [Server thread/INFO]: dondard issued server command: //set cobbleslab
-[22:54:24] [Server thread/INFO]: dondard issued server command: //undo
-[22:54:48] [Server thread/INFO]: dondard issued server command: //stack 20
-[22:55:01] [Server thread/INFO]: dondard issued server command: //tool repl 1
-[22:56:05] [Async Chat Thread - #0/INFO]: [[0;37;1mampworld[0;37;1m]<dondard> .//tool repl 1[m
-[22:56:34] [Server thread/INFO]: nilocin issued server command: //tool repl 1
-[22:56:37] [Server thread/INFO]: nilocin issued server command: //tool repl 1
-[22:57:20] [Server thread/INFO]: dondard issued server command: //tool
-[22:57:37] [Async Chat Thread - #1/INFO]: [[0;37;1mampworld[0;37;1m]<nilocin> .//brush sphere 1 2[m
-[22:57:57] [Server thread/INFO]: nilocin issued server command: /weather clear
-[22:57:57] [Server thread/INFO]: [nilocin: Changing to clear weather]
-[23:01:42] [Server thread/INFO]: nilocin issued server command: /time set 1000
-[23:01:42] [Server thread/INFO]: [nilocin: Set the time to 1000]
-[23:03:46] [Server thread/INFO]: nilocin issued server command: /weather clear
-[23:03:46] [Server thread/INFO]: [nilocin: Changing to clear weather]
-[23:07:32] [Server thread/INFO]: nilocin issued server command: //wand
-[23:08:24] [Server thread/INFO]: nilocin issued server command: //copy
-[23:09:05] [Server thread/INFO]: nilocin issued server command: //mirror help
-[23:09:09] [Server thread/INFO]: nilocin issued server command: //mirror
-[23:09:26] [Server thread/INFO]: nilocin issued server command: //switch
-[23:10:02] [Server thread/INFO]: nilocin issued server command: //flip north
-[23:10:10] [Server thread/INFO]: nilocin issued server command: //paste
-[23:10:20] [Server thread/INFO]: nilocin issued server command: //undo
-[23:10:28] [Server thread/INFO]: nilocin issued server command: //flip north
-[23:10:34] [Server thread/INFO]: nilocin issued server command: //rotate 180
-[23:10:37] [Server thread/INFO]: nilocin issued server command: //paste
-[23:11:18] [Server thread/INFO]: nilocin issued server command: //undo
-[23:11:24] [Server thread/INFO]: nilocin issued server command: //flip north
-[23:11:31] [Server thread/INFO]: nilocin issued server command: //flip south
-[23:11:35] [Server thread/INFO]: nilocin issued server command: //paste
-[23:11:45] [Server thread/INFO]: nilocin issued server command: //undo
-[23:11:48] [Server thread/INFO]: nilocin issued server command: //flip south
-[23:11:51] [Server thread/INFO]: nilocin issued server command: //paste
-[23:12:01] [Server thread/INFO]: nilocin issued server command: /time set 1000
-[23:12:01] [Server thread/INFO]: [nilocin: Set the time to 1000]
-[23:15:18] [Server thread/INFO]: dondard issued server command: /weather clear
-[23:15:18] [Server thread/INFO]: [dondard: Changing to clear weather]
-[23:16:16] [Server thread/INFO]: dondard issued server command: //wall wood
-[23:16:21] [Server thread/INFO]: dondard issued server command: //set wall
-[23:16:25] [Server thread/INFO]: dondard issued server command: //undo
-[23:16:28] [Server thread/INFO]: dondard issued server command: //wall
-[23:16:32] [Server thread/INFO]: dondard issued server command: //help wall
-[23:16:34] [Server thread/INFO]: dondard issued server command: //help
-[23:17:37] [Server thread/INFO]: dondard issued server command: //set 25%stone,50%ironore,25%coalore
-[23:17:43] [Server thread/INFO]: dondard issued server command: ///undo
-[23:18:08] [Server thread/INFO]: dondard issued server command: //wall
-[23:18:21] [Server thread/INFO]: dondard issued server command: //walls 1
-[23:18:27] [Server thread/INFO]: dondard issued server command: //undo
-[23:18:39] [Server thread/INFO]: dondard issued server command: //walls wood
-[23:22:41] [Server thread/INFO]: dondard issued server command: //set 0
-[23:24:19] [Server thread/INFO]: nilocin lost connection: Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
-[23:24:19] [Server thread/INFO]: nilocin left the game
-[23:24:33] [Server thread/INFO]: dondard issued server command: //stack 5 up
-[23:24:40] [Server thread/INFO]: dondard issued server command: //undo
-[23:24:45] [Server thread/INFO]: dondard issued server command: //stack 3 up
-[23:25:40] [User Authenticator #3/INFO]: UUID of player nilocin is 52b2cdc5-693d-4d0a-b3cd-940dedbd20f4
-[23:25:41] [Server thread/INFO]: nilocin[/95.91.247.60:22553] logged in with entity id 7468 at ([ampworld]-737.3567044997266, 81.54064094855381, 1149.5367400169596)
-[23:26:20] [Server thread/INFO]: dondard issued server command: /weather clear
-[23:26:20] [Server thread/INFO]: [dondard: Changing to clear weather]
-[23:26:24] [Server thread/INFO]: dondard issued server command: /time set 0
-[23:26:24] [Server thread/INFO]: [dondard: Set the time to 0]
-[23:27:00] [Server thread/INFO]: nilocin lost connection: Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
-[23:27:00] [Server thread/INFO]: nilocin left the game
-[23:27:15] [User Authenticator #4/INFO]: UUID of player nilocin is 52b2cdc5-693d-4d0a-b3cd-940dedbd20f4
-[23:27:15] [Server thread/INFO]: nilocin[/95.91.247.60:17060] logged in with entity id 7595 at ([ampworld]-737.3567044997266, 77.62063713385297, 1149.5367400169596)
-[23:28:09] [Server thread/INFO]: nilocin issued server command: /gamemode 1
-[23:28:09] [Server thread/INFO]: [nilocin: Set own game mode to Creative Mode]
-[23:35:43] [Server thread/INFO]: nilocin issued server command: //brush sphere stonebrick 3
-[23:35:51] [Server thread/INFO]: nilocin issued server command: //undo
-[23:35:54] [Server thread/INFO]: nilocin issued server command: //brush sphere stonebrick 1
-[23:37:07] [Server thread/INFO]: nilocin issued server command: //brush sphere 0 3
-[23:38:26] [Server thread/INFO]: nilocin issued server command: /weather clear
-[23:38:26] [Server thread/INFO]: [nilocin: Changing to clear weather]
-[23:38:34] [Server thread/INFO]: nilocin issued server command: /time set 1000
-[23:38:34] [Server thread/INFO]: [nilocin: Set the time to 1000]
-[23:38:34] [Server thread/INFO]: dondard issued server command: /time set 0
-[23:38:34] [Server thread/INFO]: [dondard: Set the time to 0]
-[23:38:46] [Server thread/INFO]: nilocin issued server command: //brush sphere stonebrick 2
-[23:41:26] [Server thread/INFO]: nilocin issued server command: //stack 3 south
-[23:41:45] [Server thread/INFO]: nilocin issued server command: //stack 3 south
-[23:41:58] [Server thread/INFO]: nilocin issued server command: //stack 3
-[23:42:03] [Server thread/INFO]: nilocin issued server command: //stack 10
-[23:43:09] [Server thread/INFO]: nilocin issued server command: //set stonebrick
-[23:43:19] [Server thread/INFO]: nilocin issued server command: //stack 10
-[23:43:29] [Server thread/INFO]: nilocin issued server command: //stack 4
-[23:45:01] [Server thread/INFO]: dondard issued server command: //stack 1
-[23:45:21] [Server thread/INFO]: dondard issued server command: //stack 1
-[23:45:50] [Server thread/INFO]: nilocin issued server command: //stack 15
-[23:46:00] [Server thread/INFO]: nilocin issued server command: /weather clear
-[23:46:00] [Server thread/INFO]: [nilocin: Changing to clear weather]
-[23:46:47] [Server thread/INFO]: nilocin issued server command: //stack 14
-[23:48:35] [Server thread/INFO]: dondard issued server command: /time set night
-[23:48:35] [Server thread/INFO]: [dondard: Set the time to 13000]
-[23:49:13] [Server thread/INFO]: nilocin issued server command: /time set 0
-[23:49:13] [Server thread/INFO]: [nilocin: Set the time to 0]
-[23:53:23] [Server thread/INFO]: nilocin lost connection: Disconnected
-[23:53:23] [Server thread/INFO]: nilocin left the game
-[23:57:08] [Server thread/INFO]: dondard issued server command: /save-all
-[23:57:08] [Server thread/INFO]: [dondard: Saved the world]
-[23:57:12] [Server thread/INFO]: dondard lost connection: Disconnected
-[23:57:12] [Server thread/INFO]: dondard left the game
-[23:57:38] [Server thread/INFO]: Stopping the server
-[23:57:38] [Server thread/INFO]: Stopping server
-[23:57:38] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5.0-SNAPSHOT-b748
-[23:57:38] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b719
-[23:57:38] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.5;4651611
-[23:57:38] [Server thread/INFO]: [dynmap] Disabling dynmap v2.4-1148
-[23:57:38] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[23:57:38] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[23:57:39] [Server thread/INFO]: [dynmap] Saved 3 pending tile renders in world 'ampworld'
-[23:57:39] [Server thread/INFO]: [dynmap] Disabled
-[23:57:39] [Server thread/INFO]: Saving players
-[23:57:39] [Server thread/INFO]: Saving worlds
-[23:57:39] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[23:57:42] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[23:57:42] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
-[23:57:42] [Server thread/INFO]: Saving chunks for level 'ampworld'/Overworld
+[10:17:35] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[10:17:35] [Server thread/INFO]: Loading properties
+[10:17:35] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[10:17:35] [Server thread/INFO]: Default game type: CREATIVE
+[10:17:35] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-3fb9445-2b6c9f4 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
+[10:17:35] [Server thread/INFO]: Debug logging is disabled
+[10:17:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:17:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:17:35] [Server thread/INFO]: Generating keypair
+[10:17:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:17:36] [Server thread/INFO]: Using default channel type
+[10:17:36] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[10:17:36] [Server thread/INFO]: [dynmap] Loading dynmap v2.4-1148
+[10:17:36] [Server thread/INFO]: [dynmap] version=git-Spigot-3fb9445-2b6c9f4 (MC: 1.11.2)
+[10:17:36] [Server thread/INFO]: [dynmap] Mod Support API available
+[10:17:36] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.5;4651611
+[10:17:36] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b719
+[10:17:36] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5.0-SNAPSHOT-b748
+[10:17:36] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[10:17:36] [Server thread/INFO]: Preparing level "world"
+[10:17:36] [Server thread/INFO]: -------- World Settings For [world] --------
+[10:17:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[10:17:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:17:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[10:17:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:17:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[10:17:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[10:17:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:17:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:17:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Random Lighting Updates: false
+[10:17:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:17:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[10:17:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:17:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[10:17:36] [Server thread/INFO]: Structure Info Saving: true
+[10:17:36] [Server thread/INFO]: Max TNT Explosions: 100
+[10:17:36] [Server thread/INFO]: Mob Spawn Range: 4
+[10:17:36] [Server thread/INFO]: View Distance: 32
+[10:17:36] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[10:17:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[10:17:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:17:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[10:17:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:17:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[10:17:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[10:17:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:17:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:17:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Random Lighting Updates: false
+[10:17:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:17:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[10:17:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:17:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[10:17:36] [Server thread/INFO]: Structure Info Saving: true
+[10:17:36] [Server thread/INFO]: Max TNT Explosions: 100
+[10:17:36] [Server thread/INFO]: Mob Spawn Range: 4
+[10:17:36] [Server thread/INFO]: View Distance: 32
+[10:17:36] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[10:17:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[10:17:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:17:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[10:17:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:17:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[10:17:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[10:17:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:17:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:17:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:17:36] [Server thread/INFO]: Random Lighting Updates: false
+[10:17:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:17:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[10:17:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:17:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[10:17:36] [Server thread/INFO]: Structure Info Saving: true
+[10:17:36] [Server thread/INFO]: Max TNT Explosions: 100
+[10:17:36] [Server thread/INFO]: Mob Spawn Range: 4
+[10:17:36] [Server thread/INFO]: View Distance: 32
+[10:17:36] [Server thread/INFO]: Preparing start region for level 0 (Seed: -1623774494)
+[10:17:37] [Server thread/INFO]: Preparing spawn area: 46%
+[10:17:37] [Server thread/INFO]: Preparing start region for level 1 (Seed: 5806315826481847166)
+[10:17:38] [Server thread/INFO]: Preparing start region for level 2 (Seed: 5806315826481847166)
+[10:17:38] [Server thread/INFO]: [dynmap] Enabling dynmap v2.4-1148
+[10:17:38] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[10:17:38] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[10:17:39] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[10:17:39] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
+[10:17:39] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[10:17:39] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[10:17:39] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[10:17:39] [Server thread/INFO]: [dynmap] version 2.4-1148 is enabled - core version 2.4-2082
+[10:17:39] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[10:17:39] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[10:17:39] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[10:17:39] [Server thread/INFO]: [dynmap] Enabled
+[10:17:39] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.5;4651611
+[10:17:40] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[10:17:40] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_11_R1 as the Bukkit adapter
+[10:17:40] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b719
+[10:17:40] [Server thread/INFO]: -------- World Settings For [ampworld] --------
+[10:17:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[10:17:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:17:40] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[10:17:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:17:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[10:17:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[10:17:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:17:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:17:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:17:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:17:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:17:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:17:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:17:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:17:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:17:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:17:40] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:17:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:17:40] [Server thread/INFO]: Random Lighting Updates: false
+[10:17:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:17:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[10:17:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:17:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[10:17:40] [Server thread/INFO]: Structure Info Saving: true
+[10:17:40] [Server thread/INFO]: Max TNT Explosions: 100
+[10:17:40] [Server thread/INFO]: Mob Spawn Range: 4
+[10:17:40] [Server thread/INFO]: View Distance: 32
+[10:17:40] [Server thread/INFO]: Preparing start region for level 3 (Seed: 6335809954930042793)
+[10:17:41] [Server thread/INFO]: Preparing spawn area for ampworld, 93%
+[10:17:41] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'ampworld'.
+[10:17:41] [Server thread/INFO]: [dynmap] Loaded 3 pending tile renders for world 'ampworld'
+[10:17:41] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[10:17:41] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b719 (API v20) Enabled - By Rigby, fernferret, lithium3141 and main--
+[10:17:41] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5.0-SNAPSHOT-b748
+[10:17:41] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5.0-SNAPSHOT-b748 Enabled - By Rigby and fernferret
+[10:17:41] [Server thread/INFO]: [MVPLogging] 1 - Portals(s) loaded
+[10:17:41] [Server thread/WARN]: [Multiverse-Core] Portal Bay has an invalid DESTINATION!
+[10:17:41] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
+[10:17:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:17:41] [Server thread/INFO]: Done (5,276s)! For help, type "help" or "?"
+[10:17:47] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[10:18:03] [User Authenticator #1/INFO]: UUID of player dondard is 1cd6a10c-8968-4a63-90a6-fa82dffb35cf
+[10:18:03] [Server thread/INFO]: dondard[/2003:ca:4bd3:9900:b04d:cf3a:e115:efa:64988] logged in with entity id 461 at ([ampworld]-766.9009102230075, 75.23726322055703, 1139.807651417594)
+[10:18:11] [Server thread/INFO]: dondard fell from a high place
+[10:18:51] [User Authenticator #2/INFO]: UUID of player DERYannick9518 is da67acf8-06e4-421c-917d-0143e85903c1
+[10:18:52] [Server thread/INFO]: DERYannick9518[/192.168.188.29:52538] logged in with entity id 1981 at ([world]301.5, 73.0, 178.5)
+[10:19:14] [Server thread/INFO]: dondard issued server command: /op DERYannick9518
+[10:19:14] [Server thread/INFO]: [dondard: Opped DERYannick9518]
+[10:19:22] [Server thread/INFO]: dondard issued server command: /gamemode 1
+[10:19:22] [Server thread/INFO]: [dondard: Set own game mode to Creative Mode]
+[10:19:44] [Server thread/INFO]: dondard issued server command: /tp dondard DERYannick9518
+[10:19:44] [Server thread/INFO]: [dondard: Teleported dondard to DERYannick9518]
+[10:19:54] [Server thread/INFO]: dondard issued server command: /gamemode 1
+[10:19:54] [Server thread/INFO]: [dondard: Set own game mode to Creative Mode]
+[10:21:05] [Server thread/INFO]: dondard issued server command: /time set 0
+[10:21:05] [Server thread/INFO]: [dondard: Set the time to 0]
+[10:21:55] [Server thread/INFO]: dondard issued server command: /tp dondard DERYannick9518
+[10:21:55] [Server thread/INFO]: [dondard: Teleported dondard to DERYannick9518]
+[10:26:29] [Server thread/INFO]: dondard issued server command: /mv
+[10:26:38] [Server thread/INFO]: dondard issued server command: /mv ampworld
+[10:26:47] [Server thread/INFO]: DERYannick9518 has just earned the achievement [Taking Inventory]
+[10:26:50] [Server thread/INFO]: dondard issued server command: /mv help
+[10:27:57] [Server thread/INFO]: dondard issued server command: /mv teleport ampworld
+[10:28:11] [Server thread/INFO]: dondard issued server command: /mv tp ampworld
+[10:28:21] [Async Chat Thread - #0/INFO]: [[0;37;1mampworld[0;37;1m]<dondard> ./mv tp ampworld[m
+[10:28:28] [Server thread/INFO]: dondard issued server command: /gamemode 1
+[10:28:28] [Server thread/INFO]: [dondard: Set own game mode to Creative Mode]
+[10:28:34] [Server thread/INFO]: dondard issued server command: /weather celar
+[10:28:35] [Server thread/INFO]: DERYannick9518 issued server command: /mv tp ampworld
+[10:28:39] [Server thread/INFO]: dondard issued server command: /weather clear
+[10:28:39] [Server thread/INFO]: [dondard: Changing to clear weather]
+[10:28:57] [Server thread/INFO]: DERYannick9518 issued server command: /gamemode 1
+[10:28:57] [Server thread/INFO]: [DERYannick9518: Set own game mode to Creative Mode]
+[10:29:07] [Server thread/INFO]: dondard lost connection: Disconnected
+[10:29:07] [Server thread/INFO]: dondard left the game
+[10:29:10] [User Authenticator #3/INFO]: UUID of player dondard is 1cd6a10c-8968-4a63-90a6-fa82dffb35cf
+[10:29:10] [Server thread/INFO]: dondard[/2003:ca:4bd3:9900:b04d:cf3a:e115:efa:65488] logged in with entity id 20638 at ([ampworld]-749.1871360135804, 72.0, 1177.8742012377982)
+[10:29:29] [Server thread/INFO]: dondard issued server command: /gamemode 1
+[10:29:29] [Server thread/INFO]: [dondard: Set own game mode to Creative Mode]
+[10:31:59] [Server thread/INFO]: DERYannick9518 issued server command: /mv tp ampworld
+[10:32:05] [Server thread/WARN]: DERYannick9518 moved too quickly! -10.191986573364375,0.0,-1.8017053577650586
+[10:32:14] [Server thread/INFO]: dondard issued server command: /time set 0
+[10:32:14] [Server thread/INFO]: [dondard: Set the time to 0]
+[10:34:09] [Server thread/INFO]: dondard issued server command: //set 0
+[10:34:12] [Server thread/INFO]: dondard issued server command: //undo
+[10:34:16] [Async Chat Thread - #1/INFO]: [[0;37;1mampworld[0;37;1m]<dondard> .//set 0[m
+[10:34:27] [Server thread/INFO]: DERYannick9518 issued server command: //set 0
+[10:34:39] [Server thread/INFO]: DERYannick9518 issued server command: //set 0
+[10:34:44] [Async Chat Thread - #1/INFO]: [[0;37;1mampworld[0;37;1m]<dondard> .//ndo[m
+[10:34:46] [Async Chat Thread - #1/INFO]: [[0;37;1mampworld[0;37;1m]<dondard> .//undo[m
+[10:34:53] [Server thread/INFO]: DERYannick9518 issued server command: //undo
+[10:35:00] [Async Chat Thread - #1/INFO]: [[0;37;1mampworld[0;37;1m]<dondard> .//set stone[m
+[10:35:07] [Server thread/INFO]: DERYannick9518 issued server command: //set stone
+[10:35:23] [Server thread/INFO]: DERYannick9518 issued server command: //undo
+[10:35:31] [Server thread/INFO]: dondard issued server command: //stack 20
+[10:35:46] [Server thread/INFO]: dondard issued server command: //undo
+[10:36:22] [Server thread/INFO]: dondard issued server command: //stack 30
+[10:36:36] [Server thread/INFO]: dondard issued server command: //undo
+[10:36:45] [Server thread/INFO]: DERYannick9518 issued server command: //stack 20
+[10:36:53] [Server thread/INFO]: DERYannick9518 issued server command: //undo
+[10:37:37] [Server thread/INFO]: DERYannick9518 issued server command: //stack 20
+[10:37:57] [Server thread/INFO]: dondard issued server command: //flip 90
+[10:38:03] [Server thread/INFO]: dondard issued server command: //flip south
+[10:38:09] [Server thread/INFO]: dondard issued server command: //copy
+[10:38:16] [Server thread/INFO]: dondard issued server command: //flip west
+[10:38:21] [Server thread/INFO]: dondard issued server command: //paste
+[10:38:24] [Server thread/INFO]: dondard issued server command: //undo
+[10:38:29] [Server thread/INFO]: dondard issued server command: //flip south
+[10:38:31] [Server thread/INFO]: dondard issued server command: //paste
+[10:38:46] [Server thread/INFO]: dondard issued server command: //undo
+[10:39:05] [Server thread/INFO]: dondard issued server command: //set 0
+[10:40:55] [Server thread/INFO]: dondard issued server command: //set 0
+[10:41:05] [Server thread/INFO]: dondard issued server command: //tool repl 1
+[10:41:29] [Async Chat Thread - #2/INFO]: [[0;37;1mampworld[0;37;1m]<dondard> .//tool repl 1[m
+[10:41:51] [Server thread/INFO]: dondard issued server command: /time set 0
+[10:41:51] [Server thread/INFO]: [dondard: Set the time to 0]
+[10:41:56] [Server thread/INFO]: dondard issued server command: /weather clear
+[10:41:56] [Server thread/INFO]: [dondard: Changing to clear weather]
+[10:43:22] [Server thread/INFO]: dondard issued server command: //set wood
+[10:43:56] [Server thread/INFO]: DERYannick9518 issued server command: //stack 5 up
+[10:43:59] [Server thread/INFO]: dondard issued server command: //stack 5 up
+[10:44:07] [Server thread/INFO]: DERYannick9518 issued server command: //undo
+[10:44:14] [Server thread/INFO]: dondard issued server command: //cut
+[10:44:18] [Server thread/INFO]: dondard issued server command: //paste
+[10:44:19] [Server thread/INFO]: DERYannick9518 issued server command: //stack 5 up
+[10:44:48] [Server thread/INFO]: DERYannick9518 issued server command: //set wood
+[10:45:08] [Server thread/INFO]: DERYannick9518 issued server command: //stack 5
+[10:45:16] [Server thread/INFO]: DERYannick9518 issued server command: //stack 2
+[10:45:26] [Server thread/INFO]: DERYannick9518 issued server command: //undo
+[10:45:28] [Server thread/INFO]: dondard issued server command: //stack 5 up
+[10:45:35] [Server thread/INFO]: DERYannick9518 issued server command: //stack 2
+[10:45:40] [Server thread/INFO]: DERYannick9518 issued server command: //undo
+[10:45:43] [Server thread/INFO]: DERYannick9518 issued server command: //undo
+[10:45:49] [Server thread/INFO]: dondard issued server command: //cut
+[10:45:52] [Server thread/INFO]: dondard issued server command: //paste
+[10:45:57] [Server thread/INFO]: dondard issued server command: //undo
+[10:45:59] [Server thread/INFO]: dondard issued server command: //paste
+[10:46:06] [Server thread/INFO]: DERYannick9518 issued server command: //stack 7
+[10:46:08] [Server thread/INFO]: dondard issued server command: //undo
+[10:46:10] [Server thread/INFO]: dondard issued server command: //paste
+[10:46:24] [Server thread/INFO]: DERYannick9518 issued server command: //satck 1
+[10:46:34] [Server thread/INFO]: DERYannick9518 issued server command: //undo
+[10:46:37] [Server thread/INFO]: DERYannick9518 issued server command: //undo
+[10:47:07] [Server thread/INFO]: DERYannick9518 issued server command: /stack 4
+[10:47:21] [Server thread/INFO]: dondard issued server command: //stack 3 up
+[10:47:25] [Server thread/INFO]: dondard issued server command: //stack 4 up
+[10:47:30] [Async Chat Thread - #3/INFO]: [[0;37;1mampworld[0;37;1m]<dondard> .//stack 4 up[m
+[10:47:36] [Server thread/INFO]: dondard issued server command: //stack 4 up
+[10:47:56] [Server thread/INFO]: DERYannick9518 issued server command: //stack up 5
+[10:48:07] [Server thread/INFO]: DERYannick9518 issued server command: //stack 5 up
+[10:48:46] [Server thread/INFO]: DERYannick9518 issued server command: //stack 5 up
+[10:48:56] [Server thread/INFO]: DERYannick9518 issued server command: //stack 5 up
+[10:49:03] [Server thread/INFO]: DERYannick9518 issued server command: //stack 5 up
+[10:49:10] [Server thread/INFO]: DERYannick9518 issued server command: //stack 5 up
+[10:49:13] [Server thread/INFO]: DERYannick9518 issued server command: //stack up 5
+[10:49:16] [Server thread/INFO]: DERYannick9518 issued server command: //stack up 5
+[10:49:19] [Server thread/INFO]: DERYannick9518 issued server command: //stack up 5
+[10:49:30] [Server thread/INFO]: DERYannick9518 issued server command: //stack 5 up
+[10:49:30] [Server thread/INFO]: dondard issued server command: //set wood
+[10:51:28] [Server thread/INFO]: dondard issued server command: /weather clear
+[10:51:28] [Server thread/INFO]: [dondard: Changing to clear weather]
+[10:51:43] [Server thread/INFO]: dondard issued server command: //stack 1 up
+[10:52:28] [Server thread/INFO]: dondard issued server command: /time set 0
+[10:52:28] [Server thread/INFO]: [dondard: Set the time to 0]
+[10:52:31] [Server thread/INFO]: dondard issued server command: /time lock 0
+[10:52:46] [Async Chat Thread - #4/INFO]: [[0;37;1mampworld[0;37;1m]<dondard> .//tool repl 1[m
+[10:52:54] [Server thread/INFO]: DERYannick9518 issued server command: //tool repl
+[10:52:58] [Server thread/INFO]: DERYannick9518 issued server command: //tool repl 1
+[10:54:44] [Server thread/INFO]: dondard issued server command: //move 1 down
+[10:55:45] [Server thread/INFO]: DERYannick9518 issued server command: //stack 3
+[10:55:53] [Server thread/INFO]: DERYannick9518 issued server command: //undo
+[10:55:53] [Async Chat Thread - #5/INFO]: [[0;37;1mampworld[0;37;1m]<dondard> .//undo[m
+[10:56:10] [Server thread/INFO]: DERYannick9518 issued server command: //stack 3
+[10:56:27] [Server thread/INFO]: dondard issued server command: //stack 1
+[10:56:53] [Server thread/INFO]: dondard issued server command: //set 0
+[10:57:07] [Server thread/INFO]: dondard issued server command: //stack 10
+[10:57:22] [Server thread/INFO]: DERYannick9518 issued server command: //stack 2
+[10:57:38] [Server thread/INFO]: dondard issued server command: //move 1 up
+[10:58:20] [Server thread/INFO]: dondard issued server command: //stack 3
+[10:58:23] [Server thread/INFO]: dondard issued server command: //undo
+[10:58:31] [Server thread/INFO]: dondard issued server command: //stack 2
+[10:58:38] [Server thread/INFO]: dondard issued server command: //stack 2
+[10:59:31] [Server thread/INFO]: DERYannick9518 issued server command: //stack 2
+[11:03:27] [Server thread/INFO]: dondard issued server command: //set invis
+[11:03:32] [Server thread/INFO]: dondard issued server command: //undo
+[11:04:11] [Server thread/INFO]: dondard issued server command: //set 0166
+[11:04:47] [Async Chat Thread - #6/INFO]: [[0;37;1mampworld[0;37;1m]<dondard> 0116[m
+[11:04:57] [Async Chat Thread - #6/INFO]: [[0;37;1mampworld[0;37;1m]<dondard> 0166[m
+[11:05:34] [Server thread/INFO]: DERYannick9518 issued server command: //set 0166
+[11:05:45] [Server thread/INFO]: dondard issued server command: /time set 0
+[11:05:45] [Server thread/INFO]: [dondard: Set the time to 0]
+[11:06:08] [Server thread/INFO]: dondard issued server command: //move 1 down
+[11:06:16] [Server thread/INFO]: dondard issued server command: /weather clear
+[11:06:16] [Server thread/INFO]: [dondard: Changing to clear weather]
+[11:14:15] [Server thread/INFO]: dondard issued server command: //copy
+[11:14:24] [Server thread/INFO]: dondard issued server command: //paste
+[11:14:30] [Server thread/INFO]: dondard issued server command: //undo
+[11:16:43] [Server thread/INFO]: dondard issued server command: /time set 0
+[11:16:43] [Server thread/INFO]: [dondard: Set the time to 0]
+[11:17:56] [Server thread/INFO]: dondard issued server command: //set cobble
+[11:18:01] [Server thread/INFO]: dondard issued server command: //set cobble
+[11:23:18] [Server thread/INFO]: DERYannick9518 issued server command: /set wheather clear
+[11:23:23] [Server thread/INFO]: DERYannick9518 issued server command: /help
+[11:23:32] [Server thread/INFO]: DERYannick9518 issued server command: /help wheather
+[11:23:43] [Server thread/INFO]: DERYannick9518 issued server command: /set clear
+[11:25:38] [Server thread/INFO]: DERYannick9518 issued server command: //stack 5
+[11:25:47] [Server thread/INFO]: DERYannick9518 issued server command: //stack 1
+[11:25:57] [Server thread/INFO]: DERYannick9518 issued server command: //stack 1
+[11:26:05] [Server thread/INFO]: dondard issued server command: /weather clear
+[11:26:05] [Server thread/INFO]: [dondard: Changing to clear weather]
+[11:26:06] [Server thread/INFO]: DERYannick9518 issued server command: //undo
+[11:26:14] [Server thread/INFO]: dondard issued server command: /time set 0
+[11:26:14] [Server thread/INFO]: [dondard: Set the time to 0]
+[11:26:16] [Server thread/INFO]: DERYannick9518 issued server command: //stack 1
+[11:26:30] [Server thread/INFO]: DERYannick9518 issued server command: //stack 2
+[11:26:44] [Server thread/INFO]: DERYannick9518 issued server command: //stack 1
+[11:31:14] [Server thread/INFO]: DERYannick9518 has just earned the achievement [Getting Wood]
+[11:31:18] [Server thread/INFO]: DERYannick9518 issued server command: //stack 6
+[11:31:31] [Server thread/INFO]: DERYannick9518 issued server command: //stack 1
+[11:31:41] [Server thread/INFO]: DERYannick9518 issued server command: //stack 1
+[11:33:49] [Server thread/WARN]: Couldn't smelt 0xtile.air@0 because there is no smelting recipe
+[11:34:54] [Server thread/INFO]: dondard issued server command: //move 1 up
+[11:35:00] [Async Chat Thread - #7/INFO]: [[0;37;1mampworld[0;37;1m]<dondard> .//move 1 up[m
+[11:35:13] [Server thread/INFO]: DERYannick9518 issued server command: //stack 1 up
+[11:35:23] [Server thread/INFO]: DERYannick9518 issued server command: //stack 1 up
+[11:35:32] [Server thread/INFO]: DERYannick9518 issued server command: //stack 1 up
+[11:35:39] [Server thread/INFO]: DERYannick9518 issued server command: //stack 1up
+[11:35:42] [Server thread/INFO]: DERYannick9518 issued server command: //stack 1 up
+[11:37:53] [Server thread/INFO]: dondard issued server command: /weather clear
+[11:37:53] [Server thread/INFO]: [dondard: Changing to clear weather]
+[11:37:57] [Server thread/INFO]: dondard issued server command: /set time 0
+[11:38:00] [Server thread/INFO]: dondard issued server command: /time set 0
+[11:38:00] [Server thread/INFO]: [dondard: Set the time to 0]
+[11:39:07] [Server thread/INFO]: dondard issued server command: //set brick
+[11:39:32] [Server thread/INFO]: dondard issued server command: //set brickslab
+[11:39:34] [Server thread/INFO]: dondard issued server command: //undo
+[11:39:46] [Server thread/INFO]: dondard issued server command: //stack 5
+[11:39:49] [Server thread/INFO]: dondard issued server command: //stack 6
+[11:40:04] [Server thread/INFO]: dondard issued server command: //stack 5
+[11:40:08] [Server thread/INFO]: dondard issued server command: //undo
+[11:40:11] [Server thread/INFO]: dondard issued server command: //stack 3
+[11:44:48] [Server thread/INFO]: dondard issued server command: /summon area_effect_cloud ~ ~ ~ {Radius:3, Duration:200, Particle:barrier}
+[11:44:48] [Server thread/INFO]: [dondard: Object successfully summoned]
+[11:45:25] [Server thread/INFO]: dondard issued server command: /summon area_effect_cloud ~ ~ ~ {Radius:3, Duration:200, Particle:largesmoke}
+[11:45:25] [Server thread/INFO]: [dondard: Object successfully summoned]
+[11:45:43] [Server thread/INFO]: dondard issued server command: /summon area_effect_cloud ~ ~ ~ {Radius:3, Duration:200, Particle:largesmoke}
+[11:45:43] [Server thread/INFO]: [dondard: Object successfully summoned]
+[11:46:05] [Server thread/INFO]: dondard issued server command: /summon area_effect_cloud ~ ~ ~ {Radius:1, Duration:200, Particle:largesmoke}
+[11:46:05] [Server thread/INFO]: [dondard: Object successfully summoned]
+[11:46:52] [Server thread/INFO]: dondard issued server command: /summon area_effect_cloud ~ ~ ~ {Radius:1, Duration:200, Particle:cloud}
+[11:46:52] [Server thread/INFO]: [dondard: Object successfully summoned]
+[11:47:09] [Server thread/INFO]: dondard issued server command: /summon area_effect_cloud ~ ~ ~ {Radius:1, Duration:200, Particle:largesmoke}
+[11:47:09] [Server thread/INFO]: [dondard: Object successfully summoned]
+[11:47:16] [Server thread/INFO]: dondard issued server command: /summon area_effect_cloud ~ ~ ~ {Radius:10, Duration:200, Particle:largesmoke}
+[11:47:16] [Server thread/INFO]: [dondard: Object successfully summoned]
+[11:47:34] [Server thread/INFO]: dondard issued server command: /summon area_effect_cloud ~ ~ ~ {Radius:1, Duration:200, Particle:largesmoke}
+[11:47:34] [Server thread/INFO]: [dondard: Object successfully summoned]
+[11:48:23] [Server thread/INFO]: dondard issued server command: /summon area_effect_cloud ~ ~ ~ {Radius:1, Duration:0, Particle:largesmoke}
+[11:48:23] [Server thread/INFO]: [dondard: Object successfully summoned]
+[11:48:30] [Server thread/INFO]: dondard issued server command: /summon area_effect_cloud ~ ~ ~ {Radius:1, Duration:, Particle:largesmoke}
+[11:48:30] [Server thread/INFO]: [dondard: Object successfully summoned]
+[11:48:38] [Server thread/INFO]: dondard issued server command: /summon area_effect_cloud ~ ~ ~ {Radius:1, Particle:largesmoke}
+[11:48:38] [Server thread/INFO]: [dondard: Object successfully summoned]
+[11:48:51] [Server thread/INFO]: dondard issued server command: /summon area_effect_cloud ~ ~ ~ {Radius:1, Duration:20000, Particle:largesmoke}
+[11:48:51] [Server thread/INFO]: [dondard: Object successfully summoned]
+[11:49:00] [Server thread/INFO]: dondard issued server command: /time set 0
+[11:49:00] [Server thread/INFO]: [dondard: Set the time to 0]
+[11:49:05] [Server thread/INFO]: dondard issued server command: /weather clear
+[11:49:05] [Server thread/INFO]: [dondard: Changing to clear weather]
+[11:50:48] [Server thread/INFO]: dondard issued server command: /save-all
+[11:50:49] [Server thread/INFO]: [dondard: Saved the world]
+[11:59:34] [Server thread/INFO]: dondard issued server command: /weather clear
+[11:59:34] [Server thread/INFO]: [dondard: Changing to clear weather]
+[11:59:39] [Server thread/INFO]: dondard issued server command: /time set 0
+[11:59:39] [Server thread/INFO]: [dondard: Set the time to 0]
+[12:01:28] [Server thread/INFO]: dondard issued server command: //move 1
+[12:04:55] [Server thread/INFO]: dondard issued server command: //move 1
+[12:07:12] [Server thread/INFO]: dondard issued server command: //set cobble
+[12:07:31] [Server thread/INFO]: dondard issued server command: //tool repl 1
+[12:12:24] [Server thread/INFO]: dondard issued server command: /weather clear
+[12:12:24] [Server thread/INFO]: [dondard: Changing to clear weather]
+[12:12:29] [Server thread/INFO]: dondard issued server command: /set time 0
+[12:12:34] [Server thread/INFO]: dondard issued server command: /time set 0
+[12:12:34] [Server thread/INFO]: [dondard: Set the time to 0]
+[12:23:09] [Server thread/INFO]: dondard issued server command: /save-all
+[12:23:09] [Server thread/INFO]: [dondard: Saved the world]
+[12:28:33] [Server thread/INFO]: dondard issued server command: //set cobble
+[12:29:22] [Server thread/INFO]: dondard issued server command: //set stonebrick
+[12:29:28] [Server thread/INFO]: dondard issued server command: //set stonebrick
+[12:29:39] [Server thread/INFO]: dondard issued server command: //stack 2 up
+[12:31:14] [Server thread/INFO]: dondard issued server command: //move 1
+[12:31:22] [Server thread/INFO]: dondard issued server command: //move 1
+[12:32:40] [Server thread/INFO]: dondard issued server command: /weather clear
+[12:32:40] [Server thread/INFO]: [dondard: Changing to clear weather]
+[12:35:12] [Server thread/INFO]: dondard issued server command: //set cobble
+[12:35:20] [Server thread/INFO]: dondard issued server command: //set cobble
+[12:35:34] [Server thread/INFO]: dondard issued server command: //set stonebrick
+[12:35:59] [Server thread/INFO]: dondard issued server command: //set stonebrick
+[12:36:54] [Server thread/INFO]: dondard issued server command: //set stonebrick
+[12:41:42] [Server thread/INFO]: dondard issued server command: //set cobble
+[12:42:21] [Server thread/INFO]: dondard issued server command: //stack 6
+[12:42:40] [Server thread/INFO]: dondard issued server command: //stack 5
+[12:42:42] [Server thread/INFO]: dondard issued server command: //undo
+[12:42:45] [Server thread/INFO]: dondard issued server command: //stack 4
+[12:43:20] [Server thread/INFO]: dondard issued server command: //move 1
+[12:43:37] [Server thread/INFO]: dondard issued server command: //move 1
+[12:44:22] [Server thread/INFO]: dondard issued server command: //move 1
+[12:44:34] [Server thread/INFO]: dondard issued server command: //move 1
+[12:44:48] [Server thread/INFO]: dondard issued server command: //move 1
+[12:46:27] [Server thread/INFO]: dondard issued server command: /weather clear
+[12:46:27] [Server thread/INFO]: [dondard: Changing to clear weather]
+[12:46:31] [Server thread/INFO]: dondard issued server command: /time set 0
+[12:46:31] [Server thread/INFO]: [dondard: Set the time to 0]
+[12:47:33] [Server thread/INFO]: Saving...
+[12:47:34] [Server thread/INFO]: Saved the world
+[12:47:39] [Server thread/INFO]: Stopping the server
+[12:47:39] [Server thread/INFO]: Stopping server
+[12:47:39] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5.0-SNAPSHOT-b748
+[12:47:39] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b719
+[12:47:39] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.5;4651611
+[12:47:39] [Server thread/INFO]: [dynmap] Disabling dynmap v2.4-1148
+[12:47:39] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[12:47:39] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[12:47:39] [Server thread/INFO]: [dynmap] Saved 29 pending tile renders in world 'ampworld'
+[12:47:39] [Server thread/INFO]: [dynmap] Disabled
+[12:47:39] [Server thread/INFO]: Saving players
+[12:47:39] [Server thread/INFO]: DERYannick9518 lost connection: Server closed
+[12:47:39] [Server thread/INFO]: DERYannick9518 left the game
+[12:47:39] [Server thread/INFO]: dondard lost connection: Server closed
+[12:47:39] [Server thread/INFO]: dondard left the game
+[12:47:39] [Server thread/INFO]: Saving worlds
+[12:47:39] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[12:47:41] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[12:47:41] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[12:47:41] [Server thread/INFO]: Saving chunks for level 'ampworld'/Overworld
