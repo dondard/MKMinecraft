@@ -1,4 +1,15 @@
 portals:
+  Town:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: nilocin
+    location: -846.0,55.0,1131.0:-846.0,77.0,1147.0
+    world: ampworld
+    destination: p:Bay
   Bay:
     entryfee:
       currency: -1
@@ -6,7 +17,7 @@ portals:
     safeteleport: true
     teleportnonplayers: false
     handlerscript: ''
-    owner: Remzma
-    location: -960.0,83.0,2280.0:-960.0,87.0,2283.0
+    owner: nilocin
+    location: -1079.0,47.0,2351.0:-1063.0,77.0,2351.0
     world: ampworld
     destination: p:Town
